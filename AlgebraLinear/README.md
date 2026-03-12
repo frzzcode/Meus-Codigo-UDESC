@@ -1,14 +1,14 @@
-<h1>Algebra Linear<h1>
+<h1>Algebra Linear</h1>
 
 Projeto desenvolvido para a disciplina de Geometria Analítica, com foco no cálculo de ângulos entre retas e planos no espaço tridimensional utilizando Python e NumPy.
 
-<h2>Funcionalidades<h2>
+<h2>Funcionalidades</h2>
 <li>
     Ângulo entre duas retas
     Ângulo entre reta e plano
     Ângulo entre dois planos
 </li>
-<h2>Tecnologias<h2>
+<h2>Tecnologias</h2>
 <li>
     Python 3
     NumPy

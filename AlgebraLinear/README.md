@@ -14,4 +14,4 @@ Projeto desenvolvido para a disciplina de Geometria Analítica, com foco no cál
 <li>NumPy</li>
 
 
-<a href="https://github.com/frzzcode/Geometria-Analitica/blob/main/ÂngulosDeVetores.py">Codigo do Calculo</a>
+<a href="https://github.com/frzzcode/Meus-Codigo-UDESC/blob/main/AlgebraLinear/CalculoDeAngulos.py">Codigo do Calculo</a>

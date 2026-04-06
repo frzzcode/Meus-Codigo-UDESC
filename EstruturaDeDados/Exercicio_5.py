@@ -1,3 +1,8 @@
+# Nome: Guilherme Ferraz
+# Disciplina: Estrutura de Dados 1
+
+# Exercício 05 - Pilha e Filas
+
 class Pilha:
     def __init__(self):
         self.__pilha = []
@@ -20,7 +25,7 @@ class Fila:
             print("Fila vazia")
         else:
             print(self.__fila)
-            
+
 #Inicializa os objetos e começa o programa.
 
 pilha = Pilha()

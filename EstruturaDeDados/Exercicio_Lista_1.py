@@ -17,7 +17,7 @@ class Lista:
                 saida += valor + "\t"
                 aux.append(valor)
             self.__lista = aux
-        return saida
+            return saida
     def find(self,nome):
         return nome in self.__lista
         

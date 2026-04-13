@@ -1,3 +1,8 @@
+#Exercício 3
+
+#Guilherme Ferraz
+#Est. Dados 1
+
 from collections import deque
 class Lista:
     def __init__(self):
